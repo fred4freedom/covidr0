@@ -2,7 +2,9 @@
 
 This is based on the idea from `https://rt.live/` to track how the reproductive number is evolving with the measures being taken in Singapore. This is whole lifted from their work and applied to the data in Singapore. *no further work or modelling has been done yet*
 
-Disclaimer: All errors are due to me, while all significant works are by the original authors
+Disclaimer: 
+All errors are due to me, while all significant works are by the original authors
+The results in no way are to be assumed to be accurate (see below)
 
 # Problems
 
